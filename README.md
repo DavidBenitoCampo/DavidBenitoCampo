@@ -14,7 +14,7 @@ IT Lead @ 42 Prague | DevOps & MLOps Enthusiast | Gopher in training
 
 ---
 
-* ### 🚀 Beyond the Code
+### 🚀 Beyond the Code
 * 🔭 **Working on:**: Scaling infrastructure for 42 Prague.
 * 🧠 **Learning Path:** Deep diving into **MLOps** and **Go**.
 * 🎯 **Daily Mantra:** Aiming to be 1% better every day.
