@@ -38,16 +38,16 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc2YmpkejRzejdtMTd6ODVjcW9zbmprYmR3MDRuc2U5aWF5bnp0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidBenitoCampo/DavidBenitoCampo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidBenitoCampo/DavidBenitoCampo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DavidBenitoCampo/DavidBenitoCampo/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc2YmpkejRzejdtMTd6ODVjcW9zbmprYmR3MDRuc2U5aWF5bnp0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif"  />
+</div>
 
 ###
