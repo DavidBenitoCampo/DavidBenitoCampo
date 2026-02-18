@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there 👋</h1>
 
 ###
 
-<p align="left">My name is David and I'm a IT Lead in 42 Prague, from Spain.</p>
+<h4 align="left">My name is David and I'm a IT Lead in 42 Prague.</h4>
 
 ###
 
@@ -10,13 +10,15 @@
 
 ###
 
-<p align="left">✨ I enjoy Tech Stuff.<br>📚 I'm currently learning Go and MLOps.<br>🎯 Goals: Be a little better than the day before, every day.<br>🎲 Fun fact: I like watching movies in my free time, going to the gym, and reading books. When the weather is nice in my beloved Prague, I also like to take walks along the riverbank.</p>
+<h4 align="left">✨ I enjoy Tech Stuff.<br>📚 I'm currently learning Go and MLOps.<br>🎯 Goals: Be a little better than the day before, every day.<br>🎲 Fun fact: I like watching movies in my free time, going to the gym, and reading books. When the weather is nice in my beloved Prague, I also like to take walks along the riverbank.</h4>
 
 ###
 
-<h2 align="center">💻 Technical Stack</h2>
+<h1 align="left">Tech Stack</h1>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
@@ -38,16 +40,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidBenitoCampo/DavidBenitoCampo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidBenitoCampo/DavidBenitoCampo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DavidBenitoCampo/DavidBenitoCampo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc2YmpkejRzejdtMTd6ODVjcW9zbmprYmR3MDRuc2U5aWF5bnp0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif"  />
+  <img height="681" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc2YmpkejRzejdtMTd6ODVjcW9zbmprYmR3MDRuc2U5aWF5bnp0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif"  />
 </div>
 
 ###
