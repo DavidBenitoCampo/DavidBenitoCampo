@@ -1,8 +1,8 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
-<h4 align="left">My name is David and I'm a IT Lead in 42 Prague.</h4>
+<h4 align="center">My name is David and I'm a IT Lead in 42 Prague.</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="left">Tech Stack</h1>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
