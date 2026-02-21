@@ -1,6 +1,6 @@
 # Hi there, I'm David! 👋
 
-IT Lead @ 42 Prague | DevOps & MLOps Enthusiast | Gopher in training
+IT Lead @ 42 Prague | DevOps Enthusiast | Gopher in training
 
 ---
 
