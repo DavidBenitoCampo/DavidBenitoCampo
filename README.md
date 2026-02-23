@@ -10,7 +10,6 @@ IT Lead @ 42 Prague | DevOps Enthusiast | Gopher in training
 | :--- | :--- |
 | **Languages** | Python, Go, Bash, SQL |
 | **Cloud & DevOps** | Docker, Nginx, GitHub Actions, Packer, Terraform, Ansible, Linux (Ubuntu/Debian) |
-| **Frontend** | Angular |
 
 ---
 
