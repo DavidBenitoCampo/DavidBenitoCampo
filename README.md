@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm David Benito 👋</h1>
 
 <p align="center">
-  <em>DevOps Engineer & IT Lead @ <a href="https://www.42prague.com/">42 Prague</a> — automating everything, one pipeline at a time.</em>
+  <em>DevOps Engineer & IT Lead @ <a href="https://www.42prague.com/">42 Prague</a></em>
 </p>
 
 <p align="center">
