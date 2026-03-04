@@ -56,8 +56,3 @@ I'm a **DevOps Engineer & IT Lead** at 42 Prague, where I design and maintain th
 🤖  Automation & tooling         ██████████████░░░░░   70%
 ```
 
----
-
-<p align="center">
-  <i>Open to interesting conversations — feel free to connect!</i>
-</p>
