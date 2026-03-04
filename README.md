@@ -16,7 +16,6 @@
 ## 🧭 About Me
 
 I'm a **DevOps Engineer & IT Lead** at 42 Prague, where I design and maintain the infrastructure that powers an entire coding school.
-I'm passionate about **automation**, **clean systems design**, and building tools that make engineers' lives easier.
 
 - 🏗️ Currently scaling infrastructure and internal tooling at 42 Prague
 - 🐹 Deep-diving into **Go** — building fast, reliable backend services
