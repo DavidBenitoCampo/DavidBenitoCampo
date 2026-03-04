@@ -51,8 +51,7 @@ I'm a **DevOps Engineer & IT Lead** at 42 Prague, where I design and maintain th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidBenitoCampo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBenitoCampo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidBenitoCampo&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
