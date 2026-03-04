@@ -1,20 +1,73 @@
-# Hi there, I'm David! 👋
+<h1 align="center">Hey, I'm David Benito 👋</h1>
 
-DevOps Engineer & IT Lead @ 42 Prague | DevOps Enthusiast | Gopher in training
+<p align="center">
+  <em>DevOps Engineer & IT Lead @ <a href="https://www.42prague.com/">42 Prague</a> — automating everything, one pipeline at a time.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/davidbenitocampo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DavidBenitoCampo&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</p>
 
 ---
 
-### 🛠 Tech Stack
+## 🧭 About Me
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, Go, Bash, SQL |
-| **Cloud & DevOps** | Docker, Nginx, GitHub Actions, Packer, Terraform, Ansible, Linux (Ubuntu/Debian) |
+I'm a **DevOps Engineer & IT Lead** at 42 Prague, where I design and maintain the infrastructure that powers an entire coding school.
+I'm passionate about **automation**, **clean systems design**, and building tools that make engineers' lives easier.
+
+- 🏗️ Currently scaling infrastructure, CI/CD pipelines and internal tooling at 42 Prague
+- 🐹 Deep-diving into **Go** — building fast, reliable backend services
+- 📖 Lifelong learner: *"1% better every day"*
+- 🏙️ Based in **Prague, CZ** — you'll find me at the gym, reading, or by the Vltava
 
 ---
 
-### 🚀 Beyond the Code
-* 🔭 **Working on:** Scaling infrastructure for 42 Prague.
-* 🧠 **Learning Path:** Deep diving into **Go**.
-* 🎯 **Daily Mantra:** Aiming to be 1% better every day.
-* 🍿 **Fun Fact:** Catch me at the gym, with a book, or walking along the Vltava.
+## �️ Tech Stack
+
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### OS & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidBenitoCampo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBenitoCampo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+```text
+🏗️  Scaling infra & services    ████████████░░░░░░░   60%
+🐹  Learning Go                  ████████░░░░░░░░░░░   40%
+🤖  Automation & tooling         ██████████████░░░░░   70%
+```
+
+---
+
+<p align="center">
+  <i>Open to interesting conversations — feel free to connect!</i>
+</p>
