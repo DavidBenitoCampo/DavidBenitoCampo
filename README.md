@@ -4,7 +4,13 @@
   <em>DevOps Engineer & IT Lead @ <a href="https://www.42prague.com/">42 Prague</a></em>
 </p>
 
-![mario_gift](https://github.com/user-attachments/assets/2e347bd8-6333-4073-b17b-a7610e1d9f56)
+<div align="center">
+  <img src="your_image_name.gif" alt="My 8-bit setup" width="350" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2e347bd8-6333-4073-b17b-a7610e1d9f56" alt="mario_gift" width="350" />
+</div>
 
 ---
 
