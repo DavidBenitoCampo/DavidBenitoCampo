@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github.com/user-attachments/assets/2e347bd8-6333-4073-b17b-a7610e1d9f56" width="600" height="500" />
+    <img src="https://github.com/user-attachments/assets/2e347bd8-6333-4073-b17b-a7610e1d9f56" width="500" height="500" />
   </a>
 </div>
 
