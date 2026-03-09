@@ -17,7 +17,7 @@
 I'm a **DevOps Engineer & IT Lead** at 42 Prague, where I design and maintain the infrastructure that powers an entire coding school.
 
 - 🏗️ Currently scaling infrastructure and internal tooling at 42 Prague
-- 🐹 Deep-diving into **Go** — building fast, reliable backend services
+- 🐹 Deep-diving into **Go**
 - 📖 Lifelong learner: *"1% better every day"*
 - 🏙️ Based in **Prague, CZ** — you'll find me at the gym, reading, or by the Vltava
 
