@@ -4,7 +4,9 @@
   <em>DevOps Engineer & IT Lead @ <a href="https://www.42prague.com/">42 Prague</a></em>
 </p>
 
-https://github.com/user-attachments/assets/97a03e66-b946-4d65-88da-5e4da8ddbfa3
+
+https://github.com/user-attachments/assets/080455b5-8124-4c70-9965-75e5fe7aebb1
+
 
 ---
 
