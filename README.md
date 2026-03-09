@@ -5,10 +5,6 @@
 </p>
 
 <div align="center">
-  <img src="your_image_name.gif" width="350" />
-</div>
-
-<div align="center">
     <img src="https://github.com/user-attachments/assets/2e347bd8-6333-4073-b17b-a7610e1d9f56" width="500" height="600" />
 </div>
 
