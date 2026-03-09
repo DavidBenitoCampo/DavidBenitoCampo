@@ -4,12 +4,6 @@
   <em>DevOps Engineer & IT Lead @ <a href="https://www.42prague.com/">42 Prague</a></em>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/davidbenitocampo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ## 🧭 About Me
@@ -54,4 +48,10 @@ I'm a **DevOps Engineer & IT Lead** at 42 Prague, where I design and maintain th
 🐹  Learning Go                  ████████░░░░░░░░░░░   40%
 🤖  Automation & tooling         ██████████████░░░░░   70%
 ```
+---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/davidbenitocampo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
