@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="your_image_name.gif" alt="My 8-bit setup" width="350" />
+  <img src="your_image_name.gif" width="350" />
 </div>
 
 <div align="center">
