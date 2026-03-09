@@ -9,7 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2e347bd8-6333-4073-b17b-a7610e1d9f56" alt="mario_gift" width="350" />
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/2e347bd8-6333-4073-b17b-a7610e1d9f56" width="100%" height="250" />
+  </a>
 </div>
 
 ---
